@@ -1,5 +1,3 @@
-# AI-recommendation-system
-
 # Intelligent Candidate Discovery & Ranking
 ### Redrob × Hack2Skill — India.Runs Hackathon
 
